@@ -1,0 +1,7 @@
+x<-c(34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56)
+mean(x)
+median(x)
+variance<-(var(x))
+print(variance)
+standard_deviaton<-(sd(x))
+print(standard_deviaton)

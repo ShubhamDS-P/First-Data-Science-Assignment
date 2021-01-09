@@ -1,0 +1,5 @@
+candy<-c(1,4,3,5,6,2)
+prob<-c(0.015,0.20,0.65,0.005,0.01,0.120)
+AVg<-c(candy*prob)
+mean(AVg)
+Expected<-mean(AVg)
